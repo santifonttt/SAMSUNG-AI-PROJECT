@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Weights & Biases
+wandb/
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Sistema
+.DS_Store
